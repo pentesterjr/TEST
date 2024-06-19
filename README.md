@@ -181,7 +181,7 @@ Manual Testing:
 
 Automated Testing with SQLmap:
 
-bash
+-
 
 sqlmap -u "http://localhost/dvwa/login.php?username=admin&password=admin" --batch --dump
 
